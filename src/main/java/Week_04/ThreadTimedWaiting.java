@@ -23,3 +23,5 @@ public class ThreadTimedWaiting {
         System.out.println(t.getState());
     }
 }
+
+// Solved: Demonstrated TIMED_WAITING state in a thread

@@ -20,6 +20,7 @@ public class Shared {
         s.methodOne(this);
     }
 }
+// Solved: Handled potential deadlock by synchronized methods
 
 class ThreadBlocked {
     public  static void main(String[] args){

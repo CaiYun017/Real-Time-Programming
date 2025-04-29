@@ -10,3 +10,5 @@ public class ThreadStates {
         }
     }
 }
+
+// Solved: Displayed all possible thread states using Thread.State[]
